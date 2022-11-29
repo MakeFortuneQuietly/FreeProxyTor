@@ -19,7 +19,7 @@ https://github.com/2dust/v2rayNG
 #镜像
 https://dushuxyz.cf/hyperlinks/v2rayNG_1.7.23.apk
 
-#苹果手机 Shadowrocket(小火箭)
+#苹果手机 Shadowrocket(小火箭)，需要先翻墙或越狱
 
 使用教程
 https://github.com/bwgvps/v2ray-tutorial/wiki
