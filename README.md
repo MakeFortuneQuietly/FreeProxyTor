@@ -42,4 +42,5 @@ https://www.58ziyuanzhan.com/2021/v2rayn-firefox-setting/
 
 配置： 协议sock5,本地侦听127.0.0.1，端口10808
 
-有问题请私信
+有问题请私信/邮件
+help@run2eu.nl.eu.org
