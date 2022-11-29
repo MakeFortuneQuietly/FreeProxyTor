@@ -2,20 +2,26 @@
 翻墙-科学上网、免费翻墙、免费科学上网、免费代理，加速器（其实并不能）、一键翻墙浏览器，自用vps，免费v2ray账号/节点，tor，免费自由上网、墙翻、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网。个人闲置欧服vps，欢迎白嫖。代理协议Vless:tls+ws+cdn+tor，接入点会定期更新。由于出站口是洋葱路由，本接入点不适用于游戏加速。
 
 #适用软件 
+
 #命令行界面 Win/Linux/Mac 客户端
+
 https://github.com/v2ray/v2ray-core
+
 #镜像
+
 https://dushuxyz.cf/hyperlinks/v2ray-linux-64.zip
 https://dushuxyz.cf/hyperlinks/v2ray-macos-64.zip
 https://dushuxyz.cf/hyperlinks/v2ray-windows-64.zip
 
 #图形界面 Windows 客户端
 https://github.com/2dust/v2rayN
+
 #镜像
 https://dushuxyz.cf/hyperlinks/v2rayN-Core.zip
 
 #安卓手机 Android 客户端
 https://github.com/2dust/v2rayNG
+
 #镜像
 https://dushuxyz.cf/hyperlinks/v2rayNG_1.7.23.apk
 
