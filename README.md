@@ -10,7 +10,9 @@ https://github.com/v2ray/v2ray-core
 #镜像
 
 https://dushuxyz.cf/hyperlinks/v2ray-linux-64.zip
+
 https://dushuxyz.cf/hyperlinks/v2ray-macos-64.zip
+
 https://dushuxyz.cf/hyperlinks/v2ray-windows-64.zip
 
 #图形界面 Windows 客户端
@@ -31,10 +33,13 @@ https://dushuxyz.cf/hyperlinks/v2rayNG_1.7.23.apk
 https://github.com/bwgvps/v2ray-tutorial/wiki
 
 #接入点配置-替换同名文件(V2ray客户端)/导入自定义设置(手机APP)
+
 https://dushuxyz.cf/hyperlinks/config.json
 
 #最好再浏览器上代理设置，建议不要开启全局模式，国产软件可能记录翻墙行为
+
 https://www.58ziyuanzhan.com/2021/v2rayn-firefox-setting/
+
 配置： 协议sock5,本地侦听127.0.0.1，端口10808
 
 有问题请私信
