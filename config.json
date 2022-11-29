@@ -1,0 +1,146 @@
+{
+	"log": {
+    "loglevel": "none"
+  },
+  "inbounds": [
+    {
+      "port": 10808,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "settings": {
+        "udp": true
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "myaudiobookes.cf",
+            "port": 443,
+            "users": [
+              {
+                "id": "4a471796-7c30-42b7-af97-637630bd04de",
+                "email": "public@github.com",
+	       	"encryption": "none",
+		"security": "auto",
+		"level": 8
+	      }]},
+          {
+            "address": "learnfrenchavecmoi.ml",
+            "port": 443,
+            "users": [
+              {
+                "id": "4a471796-7c30-42b7-af97-637630bd04de",
+                "email": "public@github.com",
+	       	"encryption": "none",
+		"security": "auto",
+		"level": 8
+	      }]},
+          {
+            "address": "youshengdd.ml",
+            "port": 443,
+            "users": [
+              {
+                "id": "4a471796-7c30-42b7-af97-637630bd04de",
+                "email": "public@github.com",
+	       	"encryption": "none",
+		"security": "auto",
+		"level": 8
+	      }]},
+        {
+            "address": "yaoshinnn.cf",
+            "port": 443,
+            "users": [
+              {
+                "id": "4a471796-7c30-42b7-af97-637630bd04de",
+                "email": "public@github.com",
+	       	"encryption": "none",
+		"security": "auto",
+		"level": 8
+	      }]},
+        {
+            "address": "yaoshinnn.ga",
+            "port": 443,
+            "users": [
+              {
+                "id": "4a471796-7c30-42b7-af97-637630bd04de",
+                "email": "public@github.com",
+	       	"encryption": "none",
+		"security": "auto",
+		"level": 8
+	      }]},
+        {
+            "address": "yaoshinnn.tk",
+            "port": 443,
+            "users": [
+              {
+                "id": "4a471796-7c30-42b7-af97-637630bd04de",
+                "email": "public@github.com",
+	       	"encryption": "none",
+		"security": "auto",
+		"level": 8
+	      }]},
+        {
+            "address": "dushuxyz.ml",
+            "port": 443,
+            "users": [
+              {
+                "id": "4a471796-7c30-42b7-af97-637630bd04de",
+                "email": "public@github.com",
+	       	"encryption": "none",
+		"security": "auto",
+		"level": 8
+	      }]},
+{
+            "address": "myaudiobookes.tk",
+            "port": 443,
+            "users": [
+              {
+                "id": "4a471796-7c30-42b7-af97-637630bd04de",
+                "email": "public@github.com",
+	       	"encryption": "none",
+		"security": "auto",
+		"level": 8
+	      }
+
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "wsSettings": {
+          "path": "/anonLhx0SFASG4l9FERJ1g"
+        }
+	
+      }
+    },
+    {
+      "protocol": "freedom",
+      "settings": {},
+      "tag": "direct"
+    }   
+  ],
+  "routing": {
+    "domainStrategy": "IPOnDemand",
+    "rules": [
+      {
+        "type": "field",
+        "outboundTag": "direct",
+        "domain": ["geosite:cn"] 
+      },
+      {
+        "type": "field",
+        "outboundTag": "direct",
+        "ip": [
+          "geoip:cn", 
+          "geoip:private" 
+        ]
+      }
+    ]
+  }
+}
