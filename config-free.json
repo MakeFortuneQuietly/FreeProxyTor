@@ -1,0 +1,146 @@
+{
+	"log": {
+    "loglevel": "none"
+  },
+  "inbounds": [
+    {
+      "port": 10808,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "settings": {
+        "udp": true
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "youshengdd.tk",
+            "port": 443,
+            "users": [
+              {
+                "id": "538193f3-8f09-483f-9a0c-4ee2b2af9d0e",
+                "email": "client@run2eu.nl.eu.org",
+	       	"encryption": "none",
+		"security": "auto",
+		"level": 8
+	      }]},
+          {
+            "address": "myaudiobookfr.ml",
+            "port": 443,
+            "users": [
+              {
+                "id": "538193f3-8f09-483f-9a0c-4ee2b2af9d0e",
+                "email": "client@run2eu.nl.eu.org",
+	       	"encryption": "none",
+		"security": "auto",
+		"level": 8
+	      }]},
+          {
+            "address": "youshengdd.ml",
+            "port": 443,
+            "users": [
+              {
+                "id": "538193f3-8f09-483f-9a0c-4ee2b2af9d0e",
+                "email": "client@run2eu.nl.eu.org",
+	       	"encryption": "none",
+		"security": "auto",
+		"level": 8
+	      }]},
+        {
+            "address": "kuaishoucz.tk",
+            "port": 443,
+            "users": [
+              {
+                "id": "538193f3-8f09-483f-9a0c-4ee2b2af9d0e",
+                "email": "client@run2eu.nl.eu.org",
+	       	"encryption": "none",
+		"security": "auto",
+		"level": 8
+	      }]},
+        {
+            "address": "halenmarynacht.nl.eu.org",
+            "port": 443,
+            "users": [
+              {
+                "id": "538193f3-8f09-483f-9a0c-4ee2b2af9d0e",
+                "email": "client@run2eu.nl.eu.org",
+	       	"encryption": "none",
+		"security": "auto",
+		"level": 8
+	      }]},
+        {
+            "address": "ecoutavecvbelux.nl.eu.org",
+            "port": 443,
+            "users": [
+              {
+                "id": "538193f3-8f09-483f-9a0c-4ee2b2af9d0e",
+                "email": "client@run2eu.nl.eu.org",
+	       	"encryption": "none",
+		"security": "auto",
+		"level": 8
+	      }]},
+        {
+            "address": "kuaishoucz.ga",
+            "port": 443,
+            "users": [
+              {
+                "id": "538193f3-8f09-483f-9a0c-4ee2b2af9d0e",
+                "email": "client@run2eu.nl.eu.org",
+	       	"encryption": "none",
+		"security": "auto",
+		"level": 8
+	      }]},
+{
+            "address": "dushuxyz.ml",
+            "port": 443,
+            "users": [
+              {
+                "id": "538193f3-8f09-483f-9a0c-4ee2b2af9d0e",
+                "email": "client@run2eu.nl.eu.org",
+	       	"encryption": "none",
+		"security": "auto",
+		"level": 8
+	      }
+
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "wsSettings": {
+          "path": "/l33tLhx0SFASG4l9FERJ1g"
+        }
+	
+      }
+    },
+    {
+      "protocol": "freedom",
+      "settings": {},
+      "tag": "direct"
+    }   
+  ],
+  "routing": {
+    "domainStrategy": "IPOnDemand",
+    "rules": [
+      {
+        "type": "field",
+        "outboundTag": "direct",
+        "domain": ["geosite:cn"] 
+      },
+      {
+        "type": "field",
+        "outboundTag": "direct",
+        "ip": [
+          "geoip:cn", 
+          "geoip:private" 
+        ]
+      }
+    ]
+  }
+}
