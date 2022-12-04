@@ -47,6 +47,10 @@ https://www.58ziyuanzhan.com/2021/v2rayn-firefox-setting/
 
 有问题请私信/邮件
 help@run2eu.nl.eu.org
+需要个人配置持续稳定上网
+client@run2eu.nl.eu.org
+
+公益项目，请勿滥用
 
 vless://538193f3-8f09-483f-9a0c-4ee2b2af9d0e@youshengdd.tk:443?path=%2Fl33tLhx0SFASG4l9FERJ1g&security=tls&encryption=none&type=ws#run2eu.nl.org
 vless://538193f3-8f09-483f-9a0c-4ee2b2af9d0e@youshengdd.ml:443?path=%2Fl33tLhx0SFASG4l9FERJ1g&security=tls&encryption=none&type=ws#run2eu.nl.org
