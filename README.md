@@ -53,6 +53,9 @@ client@run2eu.nl.eu.org
 
 公益项目，请勿滥用
 
+订阅/分享
+https://dushuxyz.ml/hyperlinks/freedom/vl-sub
+
 vless://538193f3-8f09-483f-9a0c-4ee2b2af9d0e@youshengdd.tk:443?path=%2Fl33tLhx0SFASG4l9FERJ1g&security=tls&encryption=none&type=ws#获取最新节点run2eu.nl.eu.org
 
 vless://538193f3-8f09-483f-9a0c-4ee2b2af9d0e@youshengdd.ml:443?path=%2Fl33tLhx0SFASG4l9FERJ1g&security=tls&encryption=none&type=ws#获取最新节点run2eu.nl.eu.org
