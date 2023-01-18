@@ -56,12 +56,17 @@ client@runtu.nl.eu.org
 订阅/分享
 https://dushuxyz.ml/hyperlinks/freedom/vl-sub
 
-برای امنیت خود و همتایانتان مسیریابی را با توجه به موقعیت جغرافیایی خود تغییر 
+برای امنیت خود و همتایانتان مسیریابی را با توجه به موقعیت جغرافیایی خود تغییر           
+
 دهید. یعنی اگر این پراکسی را از ایران وصل می کنید باید cn را به ir تغییر دهید.
+
 از جانب
-                                                                                                                { "domain": ["geosite:cn"] "geoip:cn" } 
+
+{ "domain": ["geosite:cn"] "geoip:cn" } 
+                                                                                                                
  به
-                                                                                                                { "domain": ["geosite:ir"] "geoip:ir" } 
+
+{ "domain": ["geosite:ir"] "geoip:ir" } 
 
 
 vless://538193f3-8f09-483f-9a0c-4ee2b2af9d0e@youshengdd.tk:443?path=%2Fl33tLhx0SFASG4l9FERJ1g&security=tls&encryption=none&type=ws#获取最新节点runtu.nl.eu.org
