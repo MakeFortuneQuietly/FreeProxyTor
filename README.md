@@ -98,15 +98,7 @@ vless://538193f3-8f09-483f-9a0c-4ee2b2af9d0e@kuaishoucz.gq:443?path=%2Fl33tLhx0S
 
 vless://538193f3-8f09-483f-9a0c-4ee2b2af9d0e@kuaishoucz.cf:443?path=%2Fl33tLhx0SFASG4l9FERJ1g&security=tls&encryption=none&type=ws#获取最新节点runtu.nl.eu.org
 
-vless://538193f3-8f09-483f-9a0c-4ee2b2af9d0e@learnfrench.tk:443?path=%2Fl33tLhx0SFASG4l9FERJ1g&security=tls&encryption=none&type=ws#获取最新节点runtu.nl.eu.org
-
 vless://538193f3-8f09-483f-9a0c-4ee2b2af9d0e@learnfrench.ml:443?path=%2Fl33tLhx0SFASG4l9FERJ1g&security=tls&encryption=none&type=ws#获取最新节点runtu.nl.eu.org
-
-vless://538193f3-8f09-483f-9a0c-4ee2b2af9d0e@learnfrench.ga:443?path=%2Fl33tLhx0SFASG4l9FERJ1g&security=tls&encryption=none&type=ws#获取最新节点runtu.nl.eu.org
-
-vless://538193f3-8f09-483f-9a0c-4ee2b2af9d0e@learnfrench.gq:443?path=%2Fl33tLhx0SFASG4l9FERJ1g&security=tls&encryption=none&type=ws#获取最新节点runtu.nl.eu.org
-
-vless://538193f3-8f09-483f-9a0c-4ee2b2af9d0e@learnfrench.cf:443?path=%2Fl33tLhx0SFASG4l9FERJ1g&security=tls&encryption=none&type=ws#获取最新节点runtu.nl.eu.org
 
 vless://538193f3-8f09-483f-9a0c-4ee2b2af9d0e@learnfrenchavecmoi.tk:443?path=%2Fl33tLhx0SFASG4l9FERJ1g&security=tls&encryption=none&type=ws#获取最新节点runtu.nl.eu.org
 
