@@ -1,0 +1,87 @@
+{
+	"log": {
+    "loglevel": "none"
+  },
+  "inbounds": [
+    {
+      "port": 10808,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "settings": {
+        "udp": true
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+                    {
+                        "address": "mfyousheng.nl.eu.org",
+                        "port": 443,
+                        "password": "Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q"
+                    },
+                    {
+                        "address": "abibas.nl.eu.org",
+                        "port": 443,
+                        "password": "Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q"
+                    },
+                    {
+                        "address": "gratislivreaudio.nl.eu.org",
+                        "port": 443,
+                        "password": "Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q"
+                    },
+                    {
+                        "address": "keyboardwarrioril.nl.eu.org",
+                        "port": 443,
+                        "password": "Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q"
+                    },
+                    {
+                        "address": "kostenlosaudiobuch.nl.eu.org",
+                        "port": 443,
+                        "password": "Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q"
+                    },
+                    {
+                        "address": "freeaudiobookonline.nl.eu.org",
+                        "port": 443,
+                        "password": "Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q"
+                    }
+                
+                ]
+
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "wsSettings": {
+          "path": "/tjwsLhx0SFASG4l9FERJ1g"
+        }
+	
+      }
+    },
+    {
+      "protocol": "freedom",
+      "settings": {},
+      "tag": "direct"
+    }   
+  ],
+  "routing": {
+    "domainStrategy": "IPOnDemand",
+    "rules": [
+      {
+        "type": "field",
+        "outboundTag": "direct",
+        "domain": ["geosite:cn"] 
+      },
+      {
+        "type": "field",
+        "outboundTag": "direct",
+        "ip": [
+          "geoip:cn", 
+          "geoip:private" 
+        ]
+      }
+    ]
+  }
+}
