@@ -35,9 +35,15 @@ https://github.com/bwgvps/v2ray-tutorial/wiki
 #接入点配置-替换同名文件(V2ray客户端)/导入自定义设置(手机APP)
 
 洋葱路由配置
+
 https://dushuxyz.cf/hyperlinks/tor/config.json
+
 出站直连配置
+
 https://dushuxyz.cf/hyperlinks/freedom/config.json
+
+https://dushuxyz.cf/hyperlinks/freedom/config-trojan.json
+
 
 #最好再浏览器上代理设置，建议不要开启全局模式，国产软件可能记录翻墙行为
 
