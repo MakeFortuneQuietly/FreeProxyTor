@@ -5,27 +5,27 @@
 
 #命令行界面 Win/Linux/Mac 客户端
 
-https://github.com/v2ray/v2ray-core
+[https://github.com/v2ray/v2ray-core](https://github.com/v2fly/v2ray-core)
 
 #镜像
 
-https://dushuxyz.cf/hyperlinks/v2ray-linux-64.zip
+https://nmsl7y.nl.eu.org/hyperlinks/v2ray-linux-64.zip
 
-https://dushuxyz.cf/hyperlinks/v2ray-macos-64.zip
+https://nmsl7y.nl.eu.org/hyperlinks/v2ray-macos-64.zip
 
-https://dushuxyz.cf/hyperlinks/v2ray-windows-64.zip
+https://nmsl7y.nl.eu.org/hyperlinks/v2ray-windows-64.zip
 
 #图形界面 Windows 客户端
 https://github.com/2dust/v2rayN
 
 #镜像
-https://dushuxyz.cf/hyperlinks/v2rayN-Core.zip
+https://nmsl7y.nl.eu.org/hyperlinks/v2rayN-Core.zip
 
 #安卓手机 Android 客户端
 https://github.com/2dust/v2rayNG
 
 #镜像
-https://dushuxyz.cf/hyperlinks/v2rayNG_1.7.23.apk
+https://nmsl7y.nl.eu.org/hyperlinks/v2rayNG_1.7.23.apk
 
 #苹果手机 Shadowrocket(小火箭)，需要先翻墙或越狱
 
@@ -36,13 +36,13 @@ https://github.com/bwgvps/v2ray-tutorial/wiki
 
 洋葱路由配置
 
-https://dushuxyz.cf/hyperlinks/tor/config.json
+https://nmsl7y.nl.eu.org/hyperlinks/tor/config.json
 
 出站直连配置
 
-https://dushuxyz.cf/hyperlinks/freedom/config.json
+https://nmsl7y.nl.eu.org/hyperlinks/freedom/config.json
 
-https://dushuxyz.cf/hyperlinks/freedom/config-trojan.json
+https://nmsl7y.nl.eu.org/hyperlinks/freedom/config-trojan.json
 
 
 #最好再浏览器上代理设置，建议不要开启全局模式，国产软件可能记录翻墙行为
@@ -60,7 +60,7 @@ client@runtu.nl.eu.org
 公益项目，请勿滥用
 
 订阅/分享
-https://dushuxyz.ml/hyperlinks/freedom/vl-sub
+https://nmsl7y.nl.eu.org/hyperlinks/freedom/vl-sub
 
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&type=ws#获取最新节点runtu.nl.eu.org
 
