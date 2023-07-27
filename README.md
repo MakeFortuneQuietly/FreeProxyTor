@@ -19,13 +19,13 @@ https://nmsl7y.nl.eu.org/hyperlinks/v2ray-windows-64.zip
 https://github.com/2dust/v2rayN
 
 #镜像
-https://nmsl7y.nl.eu.org/hyperlinks/v2rayN-Core.zip
+https://nmsl7y.nl.eu.org/hyperlinks/v2rayN-With-Core.zip
 
 #安卓手机 Android 客户端
 https://github.com/2dust/v2rayNG
 
 #镜像
-https://nmsl7y.nl.eu.org/hyperlinks/v2rayNG_1.7.23.apk
+https://nmsl7y.nl.eu.org/hyperlinks/v2rayNG.apk
 
 #苹果手机 Shadowrocket(小火箭)，需要先翻墙或越狱
 
