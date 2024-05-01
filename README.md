@@ -1,5 +1,5 @@
 # 免费自由上网接入点+方法
-翻墙-科学上网、免费翻墙、免费科学上网、免费代理，加速器（其实并不能）、一键翻墙浏览器，自用vps，免费v2ray账号/节点，tor，免费自由上网、墙翻、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网。个人闲置欧服vps，欢迎白嫖。代理协议Vless:tls+ws+cdn+tor，接入点会定期更新。由于出站口是洋葱路由，本接入点不适用于游戏加速。
+翻墙-科学上网、免费翻墙、免费科学上网、免费代理，加速器（其实并不能）、一键翻墙浏览器，自用vps，免费v2ray账号/节点，tor，免费自由上网、墙翻、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网。个人闲置欧服vps，欢迎白嫖。代理协议Vless/trojan:tls+ws+cdn+tor/warp，接入点会定期更新。由于出站口在欧洲，本接入点不适用于游戏加速。
 
 #适用软件 
 
@@ -62,16 +62,15 @@ client@runtu.nl.eu.org
 订阅/分享
 https://nmsl7y.nl.eu.org/hyperlinks/freedom/vl-sub
 
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&type=ws#获取最新节点runtu.nl.eu.org
+直连出站 - 本机IP有被标记风险，切勿登录国内帐号
 
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@abibas.nl.eu.org:443?path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&type=ws#获取最新节点runtu.nl.eu.org
+trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@abibas.nl.eu.org:443?path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&type=ws#direct-runtu.nl.eu.org
 
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@gratislivreaudio.nl.eu.org:443?path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&type=ws#获取最新节点runtu.nl.eu.org
+洋葱出站 - 移动设备不推荐
 
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@keyboardwarrioril.nl.eu.org:443?path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&type=ws#获取最新节点runtu.nl.eu.org
+vless://4a471796-7c30-42b7-af97-637630bd04de@abibas.nl.eu.org:443?path=%2FanonLhx0SFASG4l9FERJ1g&security=tls&encryption=none&type=ws#tor-runtu.nl.eu.org
 
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@kostenlosaudiobuch.nl.eu.org:443?path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&type=ws#获取最新节点runtu.nl.eu.org
+Warp出站 - Cloudflare IP，推荐
 
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@freeaudiobookonline.nl.eu.org:443?path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&type=ws#获取最新节点runtu.nl.eu.org
+vless://538193f3-8f09-483f-9a0c-4ee2b2af9d0e@abibas.nl.eu.org:443?path=%2Fl33tLhx0SFASG4l9FERJ1g&security=tls&encryption=none&type=ws#warp-runtu.nl.eu.org
 
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@libredhistoirechinois.nl.eu.org:443?path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&type=ws#获取最新节点runtu.nl.eu.org
